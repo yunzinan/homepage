@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: 'https://note.yunzinan.top'
+    url: 'https://blog.yunzinan.top'
     weight: 20
   - name: Projects
     url: '#projects'
